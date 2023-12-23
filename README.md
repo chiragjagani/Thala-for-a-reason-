@@ -7,7 +7,7 @@ Explore the magic of "Thala" with this React app! Enter a string or number, and 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/thala-for-a-reason.git
+    git clone https://github.com/chiragjagani/thala-for-a-reason.git
     ```
 
 2. **Navigate to the project folder:**
